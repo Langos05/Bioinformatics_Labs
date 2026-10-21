@@ -1,0 +1,8 @@
+The main problem with this algorithmic approach is its inability 
+to handle the repetitive sequences present in real DNA. 
+By using a greedy method that merges fragments based solely on the 
+first text match it finds, the algorithm confuses different regions 
+of the genome that coincidentally share the same code. This causes 
+incorrect fragments to be joined together, generating a deformed 
+final sequence full of errors and with a length that does not match 
+the original genome.
