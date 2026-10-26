@@ -1,0 +1,3 @@
+Set your Gemini API key as an environment variable:
+   - Windows: $env:GEMINI_API_KEY="your_api_key"
+   - Linux/Mac: export GEMINI_API_KEY="your_api_key"
